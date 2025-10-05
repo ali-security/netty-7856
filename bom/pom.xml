@@ -25,7 +25,7 @@
 
   <groupId>io.netty</groupId>
   <artifactId>netty-bom</artifactId>
-  <version>4.1.115.Final</version>
+  <version>4.1.115.Final+sp1</version>
   <packaging>pom</packaging>
 
   <name>Netty/BOM</name>
